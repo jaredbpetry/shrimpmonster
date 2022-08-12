@@ -7,7 +7,7 @@
 #' @return
 #' @export
 #'
-#' @examples
+#' @examples yeehaw
 
 
 surf_score <- function(speed, power, flow) {
